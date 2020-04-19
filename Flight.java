@@ -42,6 +42,4 @@ class Flight extends SearchResults {
         }
     }
 
-    //sort by price Method
-    // show fastest Method
 }
